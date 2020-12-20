@@ -3,3 +3,4 @@ Django
 gunicorn==20.0.4
 python-dotenv==0.15.0
 whitenoise==5.2.0
+django-heroku
