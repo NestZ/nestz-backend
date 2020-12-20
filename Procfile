@@ -1,1 +1,1 @@
-web: gunicorn nestz-backend.wsgi --log-file -
+web: gunicorn nestz_backend.wsgi --log-file -
